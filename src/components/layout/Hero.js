@@ -8,7 +8,7 @@ export default function Hero() {
     return (
       <div className="md:flex justify-between pt-12 ">
          <div className="md:flex-rows p-4 md:ml-16 md:max-w-xl">
-            <div className="text-[#ededed] font-bold md:text-6xl text-5xl pb-2 text-center md:text-left">Hi, I'm Riddha Roy Chowdhury</div>
+            <div className="text-[#ededed] font-bold md:text-6xl text-5xl pb-2 text-center md:text-left">Hi, I&apos;m Riddha Roy Chowdhury</div>
             <div className="text-[#00abf0] font-semibold text-4xl pt-4 pb-4 text-center md:text-left">Coding Enthuciast</div>
             <div className="pt-4 pb-4">
                 <div className="text-wrap md:mr-16 text-[#ededed] font-md text-center md:text-left">
