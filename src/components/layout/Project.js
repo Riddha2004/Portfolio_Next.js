@@ -3,8 +3,8 @@ export default function Project() {
     return (
           <section className="pt-24 pb-24">
                <div className="flex items-center justify-center gap-6 text-6xl font-bold p-8">
-                   <h1 className="text-[#ededed]">My</h1>
-                   <h1 className="text-[#00abf0]">Projects</h1>
+                   <h1 className="text-[#ededed]  md:text-6xl text-4xl font-bold">My</h1>
+                   <h1 className="text-[#00abf0]  md:text-6xl text-4xl font-bold">Projects</h1>
                </div>
                <div className="md:flex items-center justify-center gap-10">
                    <div className="border-[0.2rem] rounded-lg border-[#00abf0] m-8 mb-24">
